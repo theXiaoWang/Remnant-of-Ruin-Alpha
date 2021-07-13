@@ -1,5 +1,6 @@
 # Remnant of Ruin
 This is a deck-building Roguelike demo game I created with 2 others back in 2019. I was mainly in charge of design, music, sound, and animation.
+
 Game trailer: https://drive.google.com/file/d/1h2zuEHma9Ckv7kFVHfpegS4hfhwlUnNf/view?usp=sharing
 You can also download this demo here: https://drive.google.com/file/d/1fmgjCM_MKwOE1fhWpNLrrsJSPxywTPOI/view?usp=sharing
 
